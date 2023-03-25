@@ -97,6 +97,23 @@
       "ticket": 450
     }
   ],
+    "booked": [
+    {
+      "id": 1,
+      "username":"rahul123",
+      "title": "Spider-Man: No Way Home"
+    },
+    {
+      "id": 2,
+      "username":"rahul123",
+      "title": "Doctor Strange in the Multiverse of Madness"
+    },
+    {
+      "id": 3,
+      "username":"ankit123",
+      "title": "Doctor Strange in the Multiverse of Madness"
+    }
+  ],
   "admin": [
     {
       "id": 1,
